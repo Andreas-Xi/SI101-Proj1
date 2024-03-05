@@ -17,6 +17,6 @@ Lien entre la TFtD et la TFD : la TFD (suite discrète entre $0$ et $N-1$) est u
 
 ## A faire
 
-Faire l'annalyse de message avec espaces.Détecter des espaces.Possiblement enlever le bruit.
+Faire l'annalyse de message avec espaces. Détecter des espaces. Possiblement enlever le bruit.
 
 
