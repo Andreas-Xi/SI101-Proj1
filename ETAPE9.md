@@ -13,4 +13,4 @@ Une solution que nous avons trouvé, est de faire du *0-padding*. Cela consiste 
 
 ## À approfondir
 
-Lien entre la TFtD et la TFD : la TFD (suite discrète entre $0$ et $N-1$) est un échantillonage de la TFtD (fonction de la fréquence $\nu \in \mathbb{R}).
+Lien entre la TFtD et la TFD : la TFD (suite discrète entre $0$ et $N-1$) est un échantillonage de la TFtD (fonction de la fréquence $\nu \in \mathbb{R}$).
