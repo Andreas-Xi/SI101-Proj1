@@ -19,5 +19,52 @@ $$\hat{x}(\nu) = \frac{1}{T_e}
 
 Dans ce cas, le lien entre $\hat{x}$ et $\hat{x}_a$ est très fort.
 
-# Exercice 1 : Manipulation du repliement spectral
+## Exercice 1 : Manipulation du repliement spectral
+1)
+Voici le spectre de $f$ :
+
+![Sectre de f](TFD.png)
+
+Voici le spectre de la TFtD :
+
+![Spectre de f échantillonné](TFtD.png)
+
+2)
+Voici le spectre de $f$ :
+
+![alt text](TFD2.png)
+
+Voici le spectre de la TFtD :
+
+![alt text](TFTD2.png)
+
+2bis)
+Voici le spectre de $f$ :
+
+![alt text](TFD2.png)
+
+Voici le spectre de la TFtD :
+
+![alt text](TFTD3.png)
+
+3)
+Voici le spectre de $f$ :
+
+![alt text](TFD2.png)
+
+Voici le spectre de la TFtD :
+
+![alt text](TFTD4.png)
+
+## Exercice 2 : Application à l'audio
+
+$F_e = 1000\:\: Hz$
+
+$x_a(t) = sin(2\pi t f_0)$
+
+$f_0 = 600 \:\: Hz$
+
+$t \in [0, 50s]$
+
+$x(n) = x_a(nT_e)$
 
